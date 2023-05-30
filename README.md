@@ -19,7 +19,7 @@
 
 - python: [Download](https://www.python.org/downloads/) | [Installation Guide](https://www.digitalocean.com/community/tutorials/install-python-windows-10)
 - pip: [Installation Guide](https://phoenixnap.com/kb/install-pip-windows)
-- `youtube-dl` python package: run this command on Terminal/PowerShell/Command Prompt/Windows + R keystroke: `pip install --upgrade --force-reinstall "git+https://github.com/ytdl-org/youtube-dl.git"` (see [this]() if you are wondering why i am not doing `pip install youtube-dl` instead)
+- `youtube-dl` python package: run this command on Terminal/PowerShell/Command Prompt/Windows + R keystroke: `pip install --upgrade --force-reinstall "git+https://github.com/ytdl-org/youtube-dl.git"` (see [this](https://github.com/ytdl-org/youtube-dl/issues/32180) if you are wondering why i am not doing `pip install youtube-dl` instead)
 - ffmpeg: [Download](https://ffmpeg.org/download.html) | [Installation Guide](https://www.wikihow.com/Install-FFmpeg-on-Windows)
 - your brain
 
