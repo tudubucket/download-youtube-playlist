@@ -1,6 +1,9 @@
 
 # Simple Youtube Playlist Downloader (.mp3)
 
+#### [Checkout my playlist here, if you want 😋](https://www.youtube.com/playlist?list=PLV2M9Tvv_Ru7PS05zvBNhAfW8_FMK4G0f)
+#### [My Discord server 😋😋😋😋](https://ankita.tudubucket.workers.dev/discord)
+
 #### reason i made this shit python file:
 - i dont want to spend couple of years just only to download a playlist that have over 500 videos on y2mate
 - some shit website (actually they're nice) won't download videos that have copyright, or they will load the playlist to first 200 videos only
@@ -37,6 +40,7 @@ Open Terminal, type `python C:\path\to\file\download-youtube-playlist.py`
 4. Waiting, 1 video about 2 minutes length will take about 3 - 5 seconds
 
 5. Have fun with your playlist, the result will be inside the folder named `playlist-output-{playlist_id}`, right inside the path where you put the python file
+
 
 
 
